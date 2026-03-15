@@ -83,7 +83,7 @@ pip install matplotlib
 ### Run
 
 ```bash
-python tsp_sa.py
+python simulated_annealing.py
 ```
 
 This will:
@@ -96,10 +96,10 @@ This will:
 ## 📁 File Structure
 
 ```
-tsp-simulated-annealing/
+simulated-annealing/
 │
-├── tsp_sa.py           # Main script
-├── sa_cost_curve.png   # Generated plot (after running)
+├── simulated_annealing.py  # Main script
+├── sa_cost_curve.png       # Generated plot (after running)
 └── README.md
 ```
 
