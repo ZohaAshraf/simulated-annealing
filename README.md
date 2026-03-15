@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/f9c192e3-8c05-4dd8-8ef8-f33392fb1d36
 # 🗺️ TSP Simulated Annealing
 
 Solving the **Travelling Salesman Problem (TSP)** using **Simulated Annealing** in Python — with a comparison of geometric and linear cooling schedules.
